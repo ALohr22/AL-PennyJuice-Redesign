@@ -361,12 +361,12 @@ table {
 .item-1 {
     z-index: 2;
     opacity: 1;
-    background-image: url("../images/carousel_1.jpg");
+    background-image: url("carousel_1.jpg");
     background-size:cover;
 }
 
 .item-2 {
-    background-image:url("../images/carousel_2.jpg");
+    background-image:url("carousel_2.jpg");
     background-size:cover;
 }
 
